@@ -1,1 +1,24 @@
-/* Add CSS Styling */
+.text {
+    background-color: rgb(242, 170, 169);
+}
+
+#first-id {
+    font-size: 32px;
+    color: blue;
+}
+
+.text-cooler {
+    background-color: rgb(242, 170, 169);
+    font-size: 28px;
+    font-weight: 500;
+}
+
+#second-id {
+    background-color: rgb(161, 242, 143);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
